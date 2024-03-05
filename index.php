@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Php My Work</title>    
-<link rel="stylesheet" href="css/styles.css">
-    
-</head>
 <body>
 
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
