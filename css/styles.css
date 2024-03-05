@@ -3,7 +3,8 @@ body{
 }
 
 form{
-    margin: 50% auto;
+    display: flex;
+    justify-self: center;
     height: 600px;
     border: 1px solid #121212;
 }
